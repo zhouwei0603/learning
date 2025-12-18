@@ -75,6 +75,6 @@ sudo systemctl restart xrdp
 
 # Use Windows RDP with address `localhost` to access Ubuntu
 
-
-
-
+# Appendix
+- https://www.jianshu.com/p/ab0b247d6b04
+- https://blog.csdn.net/ye_sheng/article/details/154071427
